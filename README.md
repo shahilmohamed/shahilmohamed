@@ -15,6 +15,19 @@
   <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahilmohamed&show_icons=true" />
 </picture>
 
+### My Top Used Languages
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=donut-vertical&show_icons=true&theme=react"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=dont-vertical&theme=ambient_gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=donut-vertical" />
+</picture>
+
 ### My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="contrib/github-snake-dark.svg" />
