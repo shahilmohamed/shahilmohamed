@@ -21,3 +21,8 @@
   <source media="(prefers-color-scheme: light)" srcset="contrib/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="contrib/github-snake.svg" />
 </picture>
+
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
