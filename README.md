@@ -22,7 +22,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=dont-vertical&theme=ambient_gradient"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=donut-vertical&theme=ambient_gradient"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=donut-vertical" />
