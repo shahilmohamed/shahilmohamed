@@ -74,20 +74,16 @@ Sunday                   73 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     35 mins             ██████████████░░░░░░░░░░░   55.76 % 
-Git Config               19 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
-HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hospital_ui              1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -106,5 +102,5 @@ C#                       3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shahilmohamed/shahilmohamed/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 19:23:50 UTC
+ Last Updated on 07/02/2026 01:29:23 UTC
 <!--END_SECTION:waka-->
