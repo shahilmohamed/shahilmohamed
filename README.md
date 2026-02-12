@@ -31,7 +31,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -74,16 +74,21 @@ Sunday                   117 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     9 mins              ██████████████████████░░░   88.46 % 
+Java Properties          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  9 mins              ████████████████████████░   94.97 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hospitalReport           8 mins              ████████████████████░░░░░   80.59 % 
+Basics                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+hospital_ui              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,5 +107,5 @@ C#                       3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shahilmohamed/shahilmohamed/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 19:36:18 UTC
+ Last Updated on 12/02/2026 01:49:01 UTC
 <!--END_SECTION:waka-->
