@@ -28,6 +28,13 @@
   <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahilmohamed&layout=donut-vertical" />
 </picture>
 
+### My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contrib/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="contrib/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="contrib/github-snake.svg" />
+</picture>
+
 <hr>
 
 <!--START_SECTION:waka-->
