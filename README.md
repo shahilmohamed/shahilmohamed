@@ -106,7 +106,7 @@ C#                       3 repos             ████░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/shahilmohamed/shahilmohamed/main/assets/bar_graph.png)
+<!--![Lines of Code chart](https://raw.githubusercontent.com/shahilmohamed/shahilmohamed/main/assets/bar_graph.png)-->
 
 
  Last Updated on 12/05/2026 02:33:11 UTC
