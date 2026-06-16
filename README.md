@@ -29,11 +29,11 @@
 </picture>
 
 ### My Contributions
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="contrib/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="contrib/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="contrib/github-snake.svg" />
-</picture>
+</picture> -->
 
 <hr>
 
